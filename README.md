@@ -1,3 +1,3 @@
 # shiny
 
-contains datasets for shiny apps
+datasets for shiny apps
